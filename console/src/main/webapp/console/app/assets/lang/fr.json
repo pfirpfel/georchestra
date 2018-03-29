@@ -5,6 +5,7 @@
   "nav.analytics"         : "Statistiques",
   "nav.logs"              : "Logs",
   "nav.roles"             : "Rôles",
+  "nav.delegations"       : "Délégations",
 
   "index.superuser"       : "Administrateur",
   "index.delegated"       : "Délégation",
@@ -100,6 +101,8 @@
   "role.description"      : "Description",
   "role.cn"               : "Identifiant",
 
+  "delegations.filter"    : "Filtrer",
+
   "area.save"             : "Enregister la zone",
   "area.updated"          : "Aire de compétence mise à jour",
   "area.error"            : "Erreur d’enregistrement",
@@ -114,7 +117,7 @@
   "role.system"          : "Rôles geOrchestra",
   "role.app"             : "Autres rôles",
   "role.newuser"         : "Nouvel utilisateur",
-  "role.newrole"        : "Nouveau rôle",
+  "role.newrole"         : "Nouveau rôle",
   "role.users"           : "utilisateurs",
   "role.filter_users"    : "Filtrer",
   "role.created"         : "Rôle créé",
